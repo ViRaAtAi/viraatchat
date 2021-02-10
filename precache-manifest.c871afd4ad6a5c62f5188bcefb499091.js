@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6f1b37125bb8323554b4a740946432d",
+    "revision": "e9fac367b6a1a86b3c345d54ea8649f0",
     "url": "/viraatchat/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/css/0.52c23fd6.chunk.css"
   },
   {
-    "revision": "5463e27ee34da7cc9d15",
-    "url": "/viraatchat/static/css/3.a29b55ea.chunk.css"
+    "revision": "df497d8e9989de70ec9c",
+    "url": "/viraatchat/static/css/3.6182e761.chunk.css"
   },
   {
     "revision": "1444b357c8babf5dbe6a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/css/7.6fa1e2f7.chunk.css"
   },
   {
-    "revision": "1235669a6c10f7f58fa3",
+    "revision": "9f0d623612f710f5483a",
     "url": "/viraatchat/static/css/main.505b9513.chunk.css"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/js/0.da7df32b.chunk.js"
   },
   {
-    "revision": "5463e27ee34da7cc9d15",
+    "revision": "df497d8e9989de70ec9c",
     "url": "/viraatchat/static/js/3.8636812a.chunk.js"
   },
   {
@@ -48,20 +48,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/js/7.1d15a0a7.chunk.js"
   },
   {
-    "revision": "1235669a6c10f7f58fa3",
-    "url": "/viraatchat/static/js/main.31111918.chunk.js"
+    "revision": "9f0d623612f710f5483a",
+    "url": "/viraatchat/static/js/main.9aaa8b0b.chunk.js"
   },
   {
-    "revision": "baf0e5a278e78ab68b5a",
-    "url": "/viraatchat/static/js/runtime~main.f9bf83c6.js"
+    "revision": "3a5991d26a67a4a5ad01",
+    "url": "/viraatchat/static/js/runtime~main.b8ec54db.js"
   },
   {
     "revision": "85479cc199de7ace1a44d901720601b8",
     "url": "/viraatchat/static/media/bubble-tail-left.85479cc1.svg"
   },
   {
-    "revision": "bcf112461b322d3b888e4eb550e3386a",
-    "url": "/viraatchat/static/media/camomile_blurred.bcf11246.jpg"
+    "revision": "fcdc50f8cc317c3afe2e27453f386e28",
+    "url": "/viraatchat/static/media/camomile_blurred.fcdc50f8.jpg"
   },
   {
     "revision": "71da74694e314a0e3a855ded564a1eaf",
