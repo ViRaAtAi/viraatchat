@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "168e8d2e232784e3660b2ab8d4f346c0",
+    "revision": "9b78b9bc24117d4de35cae4110612c6b",
     "url": "/viraatchat/index.html"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/css/7.6fa1e2f7.chunk.css"
   },
   {
-    "revision": "9731b4432497ee1d2b16",
+    "revision": "6058ed82da85770b6722",
     "url": "/viraatchat/static/css/main.505b9513.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/viraatchat/static/js/7.1d15a0a7.chunk.js"
   },
   {
-    "revision": "9731b4432497ee1d2b16",
-    "url": "/viraatchat/static/js/main.3d44a611.chunk.js"
+    "revision": "6058ed82da85770b6722",
+    "url": "/viraatchat/static/js/main.e5f2abe6.chunk.js"
   },
   {
     "revision": "e945ed80201700eae182",
